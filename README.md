@@ -1,4 +1,4 @@
-### Olá, eu sou o Evanderson! 👋  
+### Olá, eu sou Evanderson! 👋  
 
 Sou estudante de **Bacharelado em Ciência de Dados pela UNIVESP** (4º período) e estou em busca de uma oportunidade de **estágio ou emprego** na área de tecnologia.  
 Tenho formação técnica em **Desenvolvimento de Sistemas** e **Montagem e Reparação de Computadores**, ambos pelo **SENAI**.  
